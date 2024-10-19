@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the World of Victus
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Ross is new to this. Please give him support in these trying times.
+I love you 💕
